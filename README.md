@@ -9,7 +9,7 @@ If any questions, please do not hesitate to contact me at 8changqinggong@gmail.c
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7b70ec09-6099-4c59-a7bc-82df8ae49b31" /> 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/06951068-3740-440b-b89f-d5f8234b4acb"/> 
 
-Wechat QRcode 我的微信码
+Wechat QRcode 微信码
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e83f036d-cf90-4cc7-9848-8967bdf2f770" />
 
