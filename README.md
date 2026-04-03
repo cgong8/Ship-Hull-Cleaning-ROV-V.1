@@ -1,7 +1,7 @@
 # Ship-Hull-Cleaning-ROV-V.1
 SmartsROV Ship Hull Cleaning ROV V.1 is an open-source underwater robot designed for ship hull cleaning and anti-fouling. 
 If any questions, please do not hesitate to contact me at 8changqinggong@gmail.com 
-原型机开源水下船舶清洗机器人
+原型机开源水下船舶清洗机器人 微信号happyrobotguy
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/88847d9a-332c-427d-af50-439dffa2400d" />  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/de866b4f-9152-446f-aebf-5eb27f7b40ed" />   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8ed7c023-74d2-468b-984c-76d65c4111c2" />
 
